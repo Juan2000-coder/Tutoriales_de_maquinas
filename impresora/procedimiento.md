@@ -1,6 +1,7 @@
 0. Prender la impresora.
     * En la zapatilla está conectada, por un lado, la impresora y, por otro lado, una Raspberry Pi, que es la que corre el servidor de [Octoprint](https://octoprint.org) para poder imprimir desde la computadora. (Fijarse que la zapatilla esté conectada y prendida).
     > No hace falta descargar nada.
+
     ![boton de encendido](./imagenes/boton.jpg)
     ![zapatilla](./imagenes/zapatilla.jpg)
 1. Limpiar la cama.
@@ -16,6 +17,8 @@
     ![Paso 13](imagenes/instalacion-orca-13.png)
 > Nota: Los pasos siguientes también se pueden hacer de [forma manual](./control-con-lcd.md) sin utilizar la computadora, a través de los comandos de la pantalla LED de la propia impresora.
 5. Entrar a [Octoprint en esta URL](https://mecabot.ingenieria) o [esta URL](https://mecabot) e ingresar utilizando las credenciales.
-![Login Octoprint](./imagenes/octoprint-1.png)
+<p align="center">
+  <img src="./imagenes/octoprint-1.png" />
+</p>
 6. Verificar que la impresora esté conecta a la RASPBERRY a través del cable USB para poder controlarla.
 ![Conexión Raspberry](./imagenes/conexion-raspy.png)
