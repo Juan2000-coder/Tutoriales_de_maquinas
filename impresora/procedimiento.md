@@ -15,5 +15,7 @@
     * Generar el código G (Gcode).
     ![Paso 13](imagenes/instalacion-orca-13.png)
 > Nota: Los pasos siguientes también se pueden hacer de [forma manual](./control-con-lcd.md) sin utilizar la computadora, a través de los comandos de la pantalla LED de la propia impresora.
-5. Entrar a [Octoprint en esta URL](https://mecabot.ingenieria) usando las credenciales.
-6. 
+5. Entrar a [Octoprint en esta URL](https://mecabot.ingenieria) o [esta URL](https://mecabot) e ingresar utilizando las credenciales.
+![Login Octoprint](./imagenes/octoprint-1.png)
+6. Verificar que la impresora esté conecta a la RASPBERRY a través del cable USB para poder controlarla.
+![Conexión Raspberry](./imagenes/conexion-raspy.png)
